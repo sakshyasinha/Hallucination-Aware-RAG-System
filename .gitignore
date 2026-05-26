@@ -1,1 +1,24 @@
-node_modules
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large datasets and model weights
+*.bin
+*.pkl
+*.csv
+*.json
+*.h5
+*.pt
+*.pth
+
+# Environment variables (credentials)
+.env
+node_modules/
