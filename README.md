@@ -158,9 +158,3 @@ MIT License
 
 ---
 
-# GitHub About Section
-
-Use this in the “About” section:
-
-```text
-Hallucination-aware RAG system focused on contradiction detection, groundedness evaluation, and retrieval reliabi
